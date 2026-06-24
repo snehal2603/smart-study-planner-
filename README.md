@@ -1,2 +1,11 @@
-# smart-study-planner-
-"Study Planner is a console-based application developed using Python and SQLite. It helps users manage study tasks by performing CRUD operations. I used Python's sqlite3 module to connect with the database and implemented features such as adding tasks, viewing tasks, marking tasks as completed, and deleting tasks through a menu-driven interface."
+Study Planner (Python, SQLite)
+
+Developed a console-based Study Planner application using Python and SQLite.
+
+Implemented CRUD operations (Create, Read, Update, Delete) for managing study tasks.
+
+Designed and managed a relational database to store task details and completion status.
+
+Built a menu-driven interface for adding, viewing, updating, and deleting tasks.
+
+Used SQL queries through Python's sqlite3 module for efficient data storage and retrieval.
